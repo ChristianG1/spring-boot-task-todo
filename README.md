@@ -125,7 +125,7 @@ Password: (empty)
 
 **Christian Lorenzo Castellanos George**  
 💼 Technical Lead | 📱 Full Stack Developer  
-🔗 [LinkedIn](https://www.linkedin.com/in/christianlorenzocg) | [GitHub](https://github.com/christianG1)
+🔗 [LinkedIn](https://www.linkedin.com/in/christian-george-476268175/) | [GitHub](https://github.com/christianG1)
 
 ---
 
